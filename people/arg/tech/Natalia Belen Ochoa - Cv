@@ -1,0 +1,127 @@
+{
+    "personal_info": {
+        "first_name": "Natalia",
+        "last_name": "Ochoa",
+        "email": "natalia.belen.ochoa.arg@gmail.com",
+        "phone": "+54 01123167403",
+        "location": {
+            "country": "Argentina",
+            "city": "Buenos Aires",
+            "state": "Capital federal"
+        },
+        "linkedin": "https://www.linkedin.com/in/natalia-belen-ochoa-bb5b21188/",
+        "website": "",
+        "portfolio": "https://www.behance.net/nataliaochoa4",
+        "summary": "I am a highly motivated individual with a strong work ethic and a constant desire to learn and adapt to new challenges. My experience in previous roles has taught me the importance of accuracy, organization, and effective communication. Additionally, I feel comfortable using technology and am willing to invest as much time as necessary to master the specific tools and processes required."
+    },
+    "work_experience": [
+        {
+            "job_title": "Ux/Ui design",
+            "company": "Cinefilos comentan",
+            "location": "Buenos Aires, Argentina",
+            "start_date": "2022",
+            "end_date": "2023",
+            "currently_working": false,
+            "responsibilities": [
+                "Prototyping and design in Figma",
+                "Optimization of user-centered design (UCD)",
+                "Design development based on Material Design for the Android operating system",
+                "Interviews with real users"
+            ],
+            "achievements": [
+                "Built the application from scratch for the first time",
+                "Designed and developed the website logo",
+                "Worked closely with potential users"
+            ],
+            "repository_url": "https://github.com/KiddowNatalia/PF-Ochoa.io"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web developer",
+            "institution": "Universidad de la matanza (UNLAM)",
+            "location": "Buenos Aires, Argentina.",
+            "start_date": "2025",
+            "end_date": "2027",
+            "hours": 0
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "javaScript",
+                "scss",
+                "node.js",
+                "html",
+                "ux/ui"
+            ],
+            "soft": [
+                "leadership",
+                "communication",
+                "problem-solving"
+            ],
+            "tools": [
+                "Figma",
+                "Adobe Ilustrator",
+                "Adobe Photoshop",
+                "Visua Studio Code"
+            ]
+        },
+        "detailed": {
+            "technical": {
+                "javaScript HTML, CSS, SCSS": [
+                    {
+                        "name": "Cinefilos comentan",
+                        "repository_url": "https://github.com/KiddowNatalia/jsFinal-Ochoa.github.io"
+                    },
+                    {
+                        "name": "Kits de auto defensa",
+                        "repository_url": "https://github.com/KiddowNatalia/kitsautodefensa"
+                    }
+                ],
+
+                "Figma": [
+                    {
+                        "name": "Cinefilos comentan",
+                        "repository_url": "https://www.figma.com/design/L6CsyRBSNuj14R1c74cgh0/Proyecto-completo-Cin%C3%A9filos-comentan?node-id=0-1&t=uedMAszoN9z3hpZd-1"
+                    },
+                    {
+                        "name": "LACA",
+                        "repository_url": "https://www.figma.com/design/wnRaWKDS9gX7049FmLXPIw/Proyecto-completo-LACA?node-id=51-2675&t=CKG4syLwPltrsIJ0-1"
+                    }
+                ]
+            },
+            "soft": {
+                "UX/UI": [
+                    {
+                        "name": "LACA",
+                        "repository_url": "https://www.figma.com/proto/Ev2L0HcPpF1xb0qasjvRKI/Presentaci%C3%B3n-LACA?page-id=0%3A1&node-id=519-2&p=f&viewport=666%2C42%2C0.02&t=rRWLdQTm1J8HBHdE-1&scaling=contain&content-scaling=fixed&starting-point-node-id=519%3A2"
+                    },
+                    {
+                        "name": "Cinefilos comentan",
+                        "repository_url": "https://www.figma.com/proto/JQPfAJF1jho01x7lk3hqX4/Presentaci%C3%B3n-Cin%C3%A9filos-comentan?page-id=0%3A1&node-id=623-2&t=JgdX8zkPYnTpyenb-1"
+                    }
+                ]
+            }
+        }
+    },
+    "certifications": [
+        {
+            "name": "Web developer",
+            "issuing_organization": "Coderhouse",
+            "issue_date": "2023-09-20",
+            "credential_id": "https://pub.coderhouse.com/legacy-certificates/65317a791b6e5e0164e2c78f?lang=es"
+        }
+    ],   
+    "languages": [
+        {
+            "language": "Spanish",
+            "proficiency": "Native"
+        },
+        {
+            "language": "English",
+            "proficiency": "Fluent"
+        }
+    
+    ]
+}
